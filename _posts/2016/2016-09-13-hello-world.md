@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Hello 2016"
-subtitle:   " \"Hello World, Hello relatos\""
+subtitle:   " \"hello world, hello relatos\""
 date:       2016-09-13
 author:     "neo"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/2016/post-bg-2016.jpg"
 catalog: true
 tags:
     - 生活
