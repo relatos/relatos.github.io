@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hello 2016"
-subtitle:   " \"hello world, hello relatos\""
+subtitle:   hello world, hello relatos
 date:       2016-09-13
 author:     "neo"
 header-img: "img/2016/post-bg-2016.jpg"
@@ -22,6 +22,6 @@ tags:
 
 ## relatos 
 
-relatos 是著名的电影<strong>荒蛮故事</strong>电影名的第一个单词，故事集或者荒蛮故事这样的意思；其实我只是想找一个简单的模版系统就可以，刚好[HUX]()这个模版我非常喜欢就哪来用了。
+relatos 是著名的电影<strong>荒蛮故事</strong>电影名的第一个单词，故事集或者荒蛮故事这样的意思；其实我只是想找一个简单的模版系统就可以，刚好[HUX](http://huangxuan.me/)这个模版我非常喜欢就使用了。
 
 
