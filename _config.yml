@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     relatos
-zhihu_username:     relatos
+#weibo_username:     relatos
+#zhihu_username:     relatos
 github_username:    relatos
 #twitter_username:  huxpro
-facebook_username:  relatos
+#facebook_username:  relatos
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -81,12 +81,12 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Su",
-        href: "http://su.gallery/"
-    },{
-        title: "乱序",
-        href: "http://mida.re/"
-    }
-]
+# friends: [
+#     {
+#         title: "Su",
+#         href: "http://su.gallery/"
+#     },{
+#         title: "乱序",
+#         href: "http://mida.re/"
+#     }
+# ]
