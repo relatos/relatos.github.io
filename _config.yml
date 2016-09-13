@@ -7,7 +7,7 @@ description: "relatos | 荒蛮故事 | 个人传记 | 奇思妙想 | 深度思�
 keyword: "relatos, 故事,你知道的"
 url: "https://relatos.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
+timezone: CN
 
 
 # SNS settings
@@ -60,10 +60,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: relatos
+ba_track_id: d301c1a24ccfbed1a5d2dde44076cd20
 # Google Analytics
-ga_track_id: 'UA-xx-1'            # Format: UA-xxxxxx-xx
-ga_domain: relatos
+ga_track_id: 'UA-81503915-1'            # Format: UA-xxxxxx-xx
+ga_domain: relatos.top
 
 
 
