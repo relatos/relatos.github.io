@@ -1,6 +1,6 @@
-#relatos Blog
+#relatos  website 
 
-###[relatos Blog &rarr;](http://relatos.github.io)
+###[relatos website &rarr;](http://relatos.github.io)
 
 
 

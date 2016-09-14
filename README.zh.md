@@ -1,3 +1,3 @@
-# relatos 博客
+# relatos 网站
 
-### [relatos博客在这里 &rarr;](http://relatos.github.io)
+### [relatos 网站在这里 &rarr;](http://relatos.github.io)
